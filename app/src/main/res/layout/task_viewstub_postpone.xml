@@ -1,0 +1,31 @@
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/back_of_stack_btn"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_marginTop="20dp"
+        android:text="@string/back_of_stack" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/tomorrow_btn"
+        android:layout_width="230dp"
+        android:textSize="22sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/tomorrow" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/back_btn"
+        android:layout_width="230dp"
+        android:textSize="22sp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/back" />
+
+</androidx.appcompat.widget.LinearLayoutCompat>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "119016825117",
+    "project_id": "exoself-c2e4a",
+    "storage_bucket": "exoself-c2e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119016825117:android:1d390421ad921d067641f4",
+        "android_client_info": {
+          "package_name": "com.example.exoself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119016825117-0kiunbb18blr1iptsq1r4srm24mh55ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exoself",
+            "certificate_hash": "477dd7c92c53dbd0ceabdb275778f3db0836d713"
+          }
+        },
+        {
+          "client_id": "119016825117-hlugbvf440u8f7sttht66kfjmrddpndk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA79XnC7t4JP4NX1YeSuHlotir4wDXt-W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119016825117-hlugbvf440u8f7sttht66kfjmrddpndk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
